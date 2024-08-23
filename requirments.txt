@@ -2,3 +2,4 @@ flask
 redis
 django
 plsql
+sqlite
