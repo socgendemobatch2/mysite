@@ -3,4 +3,3 @@ redis
 django
 plsql
 sqlite
-tets
